@@ -1,4 +1,4 @@
-## bem vindo ao meu perfil :u
+## bem vindo ao meu perfil 👩‍🦱
 ## eu sou a andressa alves 
 ## Estou estudando na Alura
 ## Estou me desenvolvendo na linguagem JavaScript
